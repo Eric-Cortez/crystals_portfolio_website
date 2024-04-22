@@ -12138,11 +12138,13 @@ html {
 
 /* Custom CSS */
 #main-header {
-  color: #000; 
+  color: #FFF; 
   font-family: Licorice, cursive;
+  font-weight: 900;
+  font-size: 2.5 rem;
   
 }
 #main-title {
   font-weight: 200;
-  color:#000;
+  color:#FFF;
 }
