@@ -12134,3 +12134,15 @@ html {
   text-decoration: none;
   color: var(--bs-primary);
 }
+
+
+/* Custom CSS */
+#main-header {
+  color: #000; 
+  font-family: Licorice, cursive;
+  
+}
+#main-title {
+  font-weight: 200;
+  color:#000;
+}
