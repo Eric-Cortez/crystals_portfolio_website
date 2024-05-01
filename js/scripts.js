@@ -16,14 +16,10 @@ window.addEventListener('DOMContentLoaded', event => {
         }
         if (window.scrollY === 0) {
             navbarCollapsible.classList.remove('bg-white')
-            navbarCollapsible.classList.remove('py-3')
-            navbarCollapsible.classList.remove('px-5')
             navbarCollapsible.classList.add('navbar-dark')
 
         } else {
             navbarCollapsible.classList.add('bg-white')
-            navbarCollapsible.classList.add('py-3')
-            navbarCollapsible.classList.add('px-5')
             navbarCollapsible.classList.remove('navbar-dark')
         }
 
